@@ -16,3 +16,14 @@ h1 {
   left: 50%;
   transform: translate(-50%, -100%);
 }
+
+p {
+    position: fixed;
+    font-weight: 50;
+    margin: 0.4em 0;
+    font-size: 0.5em;
+    text-align: center;
+    top: 100%;
+    left: 20%;
+    transform: translate(-50%, -100%);
+}
