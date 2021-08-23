@@ -21,9 +21,9 @@ p {
     position: fixed;
     font-weight: 50;
     margin: 0.4em 0;
-    font-size: 0.5em;
+    font-size: 1.5em;
     text-align: center;
-    top: 100%;
-    left: 20%;
+    left: 15%;
+    top: 10%;
     transform: translate(-50%, -100%);
 }
